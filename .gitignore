@@ -7,3 +7,4 @@ nano-banana-*.png
 
 # 排除的文件夹 
 .snapshots/
+~/
